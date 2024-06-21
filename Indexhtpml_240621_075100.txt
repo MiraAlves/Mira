@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transformação Visagista</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fdf5e6;
+            color: #333;
+        }
+        header {
+            background: url('data:image/png;base64,[ STMV1+zZeMVUeG57R9msBOeLuRZmwoz3CMLiL44nyiGjpUhcSPKeCtSwtyOyutdIT1/g7vGzY1RcfIlWp/ep3fy7qe3VQncxuXpeHufhZAcW49eOiV6hsvjLpTCNGeC482rxtROc3N1+e+DpD3r2/yvnpC5+BpDnoGmySd8xIvru7w37OMqsVR4bvepI/0ODhqBvnKDhkWl4/1uICp1ByWp0giVjUe5MQbTPXoOIojbfNDYfOMY36tOO9EiAxfO6F27naKDFsgVFZj4fsCeY/HCPdlePPMA6EmPiN5v94HE9fTnFg+O6vioh02o+sPS5iN1BkHyALBCfqlNFY1INB8uL8TzLvjd8LR5lgdGSo7l9cucA2Ld+OGaMwUeokNbxsTjlizmu2JWf6bqPqpNHK98L0rhjFy6u+dnystkBS2jsQW/u/AEXhIidXAr4jOdz3cZCwdr0NL/u4+ZUXzlifzpaxjlTbedB8fBOigAUHj9BRBJ5EjP1yDCwN6s8u1Q0Sdcu+LFLH6mFssWDoZUfrFeNyrrhQflkZtSMO4ulLSi1i23+RDLilfEHjBIzL1dLIEShYp3/aXzaQWePodomO2T8NY14QBev+6PRjh15/GkhzGJB4DzpqvFOYPjwELhJd+JXeipS5GTdW10ozZNu/ztzXGHyByECJUTVMAvPefDuYrlFlTjObEuRlR/uajJxNcrNczTvQo15294NCNVcozx3mjFrqenj0DN6/EMpO3/dkFUXYq4nQ6jS9GQ83LwrEW3UPVuPJ1PPJX+ ]') no-repeat center center;
+            background-size: cover;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+            flex-direction: column;
+        }
+        header h1 {
+            font-size: 4em;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.5em;
+            margin: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 20px 0;
+            background-color: #C71585;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+        }
+        .button:hover {
+            background-color: #A7136F;
+        }
+        section {
+            padding: 4em 1em;
+            max-width: 800px;
+            margin: auto;
+        }
+        section h2 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+        section p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Transformação Visagista</h1>
+        <p>Desperte a beleza e a confiança que há em você.</p>
+        <a href="#servicos" class="button">Descubra Mais</a>
+    </header>
+    <section id="servicos">
+        <h2>O Poder da Transformação</h2>
+        <p>Como especialista em maquiagem visagista, ofereço serviços que vão além da beleza superficial. Meu objetivo é revelar a sua essência, criando um visual que não só embeleza, mas também transforma e empodera. Cada sessão é uma jornada de autodescoberta, onde combinamos técnicas avançadas de maquiagem com um toque artístico e criativo.</p>
+        <h2>Serviços Oferecidos</h2>
+        <ul>
+            <li><strong>Consultoria de Visagismo:</strong> Análise personalizada para descobrir o estilo que melhor harmoniza com sua personalidade e características únicas.</li>
+            <li><strong>Maquiagem para Eventos:</strong> Maquiagem profissional para eventos especiais, que realça sua beleza natural com um toque de ousadia.</li>
+            <li><strong>Aulas de Automaquiagem:</strong> Aprenda técnicas de maquiagem para o dia a dia e ocasiões especiais, valorizando seus traços de forma criativa e exploradora.</li>
+        </ul>
+        <h2>Agende sua Sessão</h2>
+        <p>Pronta para se transformar? Agende uma consulta e descubra como podemos revelar a melhor versão de você mesma.</p>
+        <a href="link_para_agendamento" class="button">Agendar Agora</a>
+    </section>
+    <footer>
+        <p>&copy; 2024 [Seu Nome]. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transformação Visagista</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fdf5e6;
+            color: #333;
+        }
+        header {
+            background: url('data:image/png;base64,[BASE64_ENCODED_IMAGE]') no-repeat center center;
+            background-size: cover;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: white;
+            flex-direction: column;
+        }
+        header h1 {
+            font-size: 4em;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.5em;
+            margin: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 20px 0;
+            background-color: #C71585;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+        }
+        .button:hover {
+            background-color: #A7136F;
+        }
+        section {
+            padding: 4em 1em;
+            max-width: 800px;
+            margin: auto;
+        }
+        section h2 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+        section p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Transformação Visagista</h1>
+        <p>Desperte a beleza e a confiança que há em você.</p>
+        <a href="#servicos" class="button">Descubra Mais</a>
+    </header>
+    <section id="servicos">
+        <h2>O Poder da Transformação</h2>
+        <p>Como especialista em maquiagem visagista, ofereço serviços que vão além da beleza superficial. Meu objetivo é revelar a sua essência, criando um visual que não só embeleza, mas também transforma e empodera. Cada sessão é uma jornada de autodescoberta, onde combinamos técnicas avançadas de maquiagem com um toque artístico e criativo.</p>
+        <h2>Serviços Oferecidos</h2>
+        <ul>
+            <li><strong>Consultoria de Visagismo:</strong> Análise personalizada para descobrir o estilo que melhor harmoniza com sua personalidade e características únicas.</li>
+            <li><strong>Maquiagem para Eventos:</strong> Maquiagem profissional para eventos especiais, que realça sua beleza natural com um toque de ousadia.</li>
+            <li><strong>Aulas de Automaquiagem:</strong> Aprenda técnicas de maquiagem para o dia a dia e ocasiões especiais, valorizando seus traços de forma criativa e exploradora.</li>
+        </ul>
+        <h2>Agende sua Sessão</h2>
+        <p>Pronta para se transformar? Agende uma consulta e descubra como podemos revelar a melhor versão de você mesma.</p>
+        <a href="link_para_agendamento" class="button">Agendar Agora</a>
+    </section>
+    <footer>
+        <p>&copy; 2024 [Seu Nome]. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
